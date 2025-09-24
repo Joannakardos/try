@@ -1,0 +1,104 @@
+/*
+    Colors used
+
+    CSS HEX
+    --bright-pink-crayola: #ee4b6aff;
+    --pink: #f4b8c3ff;
+    --black: #010001ff;
+    --flax: #f2e47dff;
+    --arylide-yellow: #e6d460ff;
+    --mimi-pink: #fed7deff;
+    --red-cmyk: #ea261fff;
+
+     CSS HSL
+    --bright-pink-crayola: hsla(349, 83%, 61%, 1);
+    --pink: hsla(349, 73%, 84%, 1);
+    --black: hsla(300, 100%, 0%, 1);
+    --flax: hsla(53, 82%, 72%, 1);
+    --arylide-yellow: hsla(52, 73%, 64%, 1);
+    --mimi-pink: hsla(349, 95%, 92%, 1);
+    --red-cmyk: hsla(2, 83%, 52%, 1);
+
+*/
+/* ma palette de couleur */
+:root {
+    --bright-pink-crayola: #ee4b6a;
+    --pink: #f4b8c3;
+    --black: #010001;
+    --flax: #f2e47d;
+    --arylide-yellow: #e6d460;
+    --mimi-pink: #fed7de;
+    --red-cmyk: #ea261f;
+    --white: #fffff;
+
+}
+
+/*c'est le style général*/
+body {
+    font-family: Arial, sans-serif;
+    /*police d'écriture*/
+    background-color: var(--white);
+    margin: 20px;
+}
+
+/* Titres */
+h1 {
+    background-color: var(--pink);
+    color: var(--bright-pink-crayola);
+    padding: 5px;
+    border-bottom: 2px solid var(--bright-pink-crayola);
+}
+
+.specie {
+    color: var(--black);
+    font-size: 0.9em;
+}
+
+/* Sous-titres */
+h2 {
+    background-color: var(--pink);
+    color: var padding: 5px;
+    border-top: 2px solid var(--bright-pink-crayola);
+    border-bottom: 2px solid var(--bright-pink-crayola);
+}
+
+/* le texte de Electric-type Pokémon" */
+em {
+    display: inline-block;
+    color: var(--bright-pink-crayola) background-color: var(--pink);
+    padding: 3px 8px;
+    margin: 5px 0;
+    border: 1px solid var(--arylide-yellow);
+    float: left;
+}
+
+/* Images  jsp pour l'instant je connais que les paramettres
+#pika1 {
+    float: right;
+    width: 180px;
+    border: 2px solid var(--red-cmyk);
+    margin: 5px;
+}
+
+/*c'est censer être limage mais jsp comment la mettre  {
+    float: right;
+    width: 120px;
+    border: 2px ;
+    margin: 5px;
+}
+*/
+/* Les évolution  */
+.evolution {
+    background-color: var(--pink);
+    padding: 2px 5px;
+    border: 1px solid var(--black);
+    border-radius: 4px;
+}
+
+/* Liste des evolutions */
+ul.evolution {
+    background-color: var(--flax);
+    /* jaune clair */
+    padding: 10px;
+    border: 1px solid var(--arylide-yellow);
+}
