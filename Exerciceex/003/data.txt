@@ -1,0 +1,23 @@
+BFH
+Passerelle 2023
+
+Nunc aliquam a ipsum sed dignissim. Donec a pretium nulla. Aenean non lorem fermentum, tempus est vel, pulvinar quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque ultricies nulla nec turpis maximus, eu venenatis erat blandit. In pharetra odio in orci lobortis placerat. Suspendisse libero turpis, lacinia eget nunc tincidunt, elementum eleifend neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis pulvinar ex. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin dignissim odio erat, sed ullamcorper nibh iaculis quis.
+
+Quisque molestie ex massa, at mollis risus hendrerit ac. Aliquam quis purus ut justo accumsan consequat. Praesent et semper neque.
+Sed tincidunt erat ut eros mattis, non facilisis lectus euismod. Morbi et libero sem. Sed semper quam et lacus lacinia gravida. Nam consectetur ullamcorper tellus. In gravida metus ut lectus rhoncus sodales. Duis eget condimentum massa. Nullam mollis eu mauris vitae egestas. Nullam at velit ut tellus convallis tincidunt.
+
+Nulla sit amet fermentum sapien. Vivamus euismod turpis metus, et vehicula tortor lacinia eget. Nam sagittis maximus sem, non finibus augue pulvinar non. Aliquam pharetra quis erat eget efficitur. Vivamus elementum enim at justo rhoncus sodales. Sed congue dui in nisl dictum, ac fermentum est semper. Sed sodales erat vitae efficitur luctus. Donec in urna sed sapien pharetra sodales nec eu purus. Vestibulum lacus risus, hendrerit at gravida at, efficitur in lectus. Nam sit amet mollis turpis, ut bibendum urna. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer sodales ipsum sit amet augue egestas sagittis. Suspendisse risus eros, fermentum nec tincidunt eget, tincidunt ut ligula.
+
+
+First name 	Last name 	Email address 	Groups
+Mehmet 	Aydin 	mehmet.aydin@students.bfh.ch 	Students
+Inna 	Butenko 	inna.butenko@students.bfh.ch 	Students
+Ramazan Serhat 	Kiziltoprak 	ramazan.kiziltoprak@students.bfh.ch 	Students
+Anastasiia 	Kulcsar 	anastasiia.kulcsar@students.bfh.ch 	Students
+Oksana 	Mashurova 	oksana.mashurova@students.bfh.ch 	Students
+Moumn 	Mouslli 	moumn.mouslli@students.bfh.ch 	Students
+Yunus 	Tartik 	yunus.tartik@students.bfh.ch 	Students
+Ebubekir 	Tosun 	ebubekir.tosun@students.bfh.ch 	Students
+Oguzhan 	Yaman 	oguzhan.yaman@students.bfh.ch 	Students
+
+W E B D E V
